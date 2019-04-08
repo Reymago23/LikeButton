@@ -20,8 +20,7 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
 
-public class MainActivity extends AppCompatActivity implements OnLikeListener,
-    OnAnimationEndListener {
+public class MainActivity extends AppCompatActivity implements OnLikeListener, OnAnimationEndListener {
 
     public static final String TAG = "MainActivity";
 
